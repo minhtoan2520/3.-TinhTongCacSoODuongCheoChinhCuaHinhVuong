@@ -44,5 +44,6 @@ public class TotalMainDiagonal {
             }
         }
         System.out.print("Tong cac so o duong cheo chinh la: " + total);
+        input.close();
     }
 }
